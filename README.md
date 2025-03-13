@@ -5,3 +5,5 @@ Il avance vraiment vite
 Si ça continue comme ça
 On pourra bientôt passer en production
 Je crois qu'on est bon !
+AH non, pas encore bon
+C'est un peu long...
